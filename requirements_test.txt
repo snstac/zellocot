@@ -1,0 +1,12 @@
+# ZelloCOT Python Distribution Package Requirements.
+#
+# Source:: https://github.com/ampledata/zellocot
+# Author:: Greg Albrecht W2GMD <oss@undef.net>
+# Copyright:: Copyright 2022 Greg Albrecht
+# License:: Apache License, Version 2.0
+
+
+flake8
+pylint
+twine
+black
